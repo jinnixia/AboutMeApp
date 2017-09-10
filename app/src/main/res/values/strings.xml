@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMeApp</string>
+    <string name="about_me_prof">About me - Professional</string>
+    <string name="about_me_personal">About me - Personal</string>
+    <string name="prof_blurb">This is where I can enter a bio about myself so that you can learn
+        more about me professionally! I am a really interesting person and also I have a lot of
+        good qualities that make me hireable. Now, I can add Android development to my resume.
+    </string>
+    <string name="personal_blurb">This is where I can enter a bio about myself so that you can
+        learn more about me personally! I like to spend my free time eating, hanging out
+        with my friends, and learning about mobile app development!
+    </string>
+</resources>
