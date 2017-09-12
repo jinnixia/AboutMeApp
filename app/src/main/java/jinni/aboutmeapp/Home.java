@@ -31,9 +31,9 @@ public class Home extends AppCompatActivity {
      * Brings user to about me screen
      */
     private void aboutMe() {
-        Intent editIntent = new Intent(Home.this, AboutMe.class);
-        editIntent.putExtra("isEdit", true);
-        startActivity(editIntent);
+        Intent aboutIntent = new Intent(Home.this, AboutMe.class);
+        aboutIntent.putExtra("isEdit", true);
+        startActivity(aboutIntent);
     }
 
 }
