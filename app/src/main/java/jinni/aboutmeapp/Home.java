@@ -32,7 +32,6 @@ public class Home extends AppCompatActivity {
      */
     private void aboutMe() {
         Intent aboutIntent = new Intent(Home.this, AboutMe.class);
-        aboutIntent.putExtra("isEdit", true);
         startActivity(aboutIntent);
     }
 
